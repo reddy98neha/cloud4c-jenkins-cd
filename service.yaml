@@ -5,7 +5,7 @@ metadata:
   labels:
     app: nehalb
   name: nehalb
-  namespace: neha-final-app
+  namespace: neha-app
 spec:
   ports:
   - name: 80-80
